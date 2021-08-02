@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nikmas"
-version = "0.1.0"
+version = "0.1.1"
 description = "Collection of useful utils for python projects."
 authors = ["Nikita Maslov <maslov.n.e@gmail.com>"]
 repository = "https://github.com/nikmas-dev/Nikmas_library"
